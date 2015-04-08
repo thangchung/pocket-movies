@@ -1,0 +1,26 @@
+{
+  "name": "Pocket Movies Application",
+  "version": "0.0.1",
+  "description": "This is a personal pocket movies for searching movies on over the world",
+  "main": "main.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "pocket-movies",
+    "movies",
+    "api"
+  ],
+  "authors": [
+    "thangchung"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
