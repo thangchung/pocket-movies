@@ -197,3 +197,10 @@ FakesAssemblies/
 
 # Ignore IDE folder
 PocketMovieSolution.sln.ide/
+Cik.PocketMovie.WebApp/Content/dist/css/app.css
+Cik.PocketMovie.WebApp/Content/dist/css/app.min.css
+Cik.PocketMovie.WebApp/Scripts/jquery-bundle.min.js
+Cik.PocketMovie.WebApp/Scripts/maps/material-bundle.min.js.map
+Cik.PocketMovie.WebApp/Scripts/maps/modernizer-min.js.map
+Cik.PocketMovie.WebApp/Scripts/material-bundle.min.js
+Cik.PocketMovie.WebApp/Scripts/modernizer-min.js

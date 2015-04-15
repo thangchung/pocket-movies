@@ -4,9 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - Pocket Movies Application</title>
-    @*@Styles.Render("~/Content/css")
-    @Scripts.Render("~/bundles/modernizr")*@
-
+    <link rel="stylesheet" href="~/Content/dist/css/app.min.css">
+    <script src="~/Scripts/modernizer-min.js"></script>
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -37,8 +36,8 @@
         </footer>
     </div>
 
-    @*@Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")*@
+    <script src="~/Scripts/jquery-bundle.min.js"></script>
+    <script src="~/Scripts/bootstrap-bundle.min.js"></script>
     @RenderSection("scripts", required: false)
 </body>
 </html>
